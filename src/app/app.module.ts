@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { HeroComponent } from './hero/hero.component';
 import { LayoutComponent } from './layout/layout.component';
 import { SharedModule } from './shared/shared.module';
+import { ProjectsComponent } from './projects/projects.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeroComponent,
-    LayoutComponent
+    LayoutComponent,
+    ProjectsComponent
   ],
   imports: [
     BrowserModule,
