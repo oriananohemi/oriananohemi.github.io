@@ -10,6 +10,11 @@ import { ProjectComponent } from './project/project.component';
   declarations: [HeaderComponent, FooterComponent, ProjectComponent],
   imports: [
     CommonModule
+  ],
+  exports: [
+    HeaderComponent,
+    FooterComponent,
+    ProjectComponent
   ]
 })
 export class SharedModule { }
