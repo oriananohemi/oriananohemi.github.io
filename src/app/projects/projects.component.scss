@@ -6,6 +6,12 @@
   &-section {
     margin: 0 auto;
     padding: 50px 10px;
+    width: 90%;
+  }
+}
+
+@media (min-width: 1020px) {
+  .projects-section {
     width: 80%;
   }
 }
