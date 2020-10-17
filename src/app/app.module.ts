@@ -8,6 +8,7 @@ import { LayoutComponent } from './layout/layout.component';
 import { SharedModule } from './shared/shared.module';
 import { ProjectsComponent } from './projects/projects.component';
 import { AboutmeComponent } from './aboutme/aboutme.component';
+import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { AboutmeComponent } from './aboutme/aboutme.component';
     HeroComponent,
     LayoutComponent,
     ProjectsComponent,
-    AboutmeComponent
+    AboutmeComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,

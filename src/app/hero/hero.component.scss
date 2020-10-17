@@ -2,14 +2,12 @@
   background: url("../../assets/image/hero.jpeg");
   background-position: center;
   background-size: cover;
-  min-height: 400px;
+  min-height: 500px;
   display: flex;
   justify-content: center;
   align-items: center;
   &__title {
-    font-size: 35px;
+    font-size: 40px;
     margin: 10px 0;
-  }
-  &__paragraph {
   }
 }
