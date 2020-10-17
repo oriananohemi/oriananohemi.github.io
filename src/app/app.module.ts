@@ -7,13 +7,15 @@ import { HeroComponent } from './hero/hero.component';
 import { LayoutComponent } from './layout/layout.component';
 import { SharedModule } from './shared/shared.module';
 import { ProjectsComponent } from './projects/projects.component';
+import { AboutmeComponent } from './aboutme/aboutme.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeroComponent,
     LayoutComponent,
-    ProjectsComponent
+    ProjectsComponent,
+    AboutmeComponent
   ],
   imports: [
     BrowserModule,
