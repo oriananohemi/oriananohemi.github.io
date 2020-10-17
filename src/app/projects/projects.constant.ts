@@ -18,6 +18,12 @@ export const projects = [
     github: 'https://github.com/oriananohemi/petShop',
   },
   {
+    title: 'Buscador de Peliculas',
+    image: 'assets/image/buscadorPeliculas.png',
+    demo: 'https://oriananohemi.github.io/buscador-peliculas/',
+    github: 'https://github.com/oriananohemi/buscador-peliculas',
+  },
+  {
     title: 'PhySport',
     image: 'assets/image/phySport.png',
     demo: 'https://oriananohemi.github.io/BOG001-social-network/',
@@ -47,4 +53,28 @@ export const projects = [
     demo: '',
     github: '',
   },
-]
+  {
+    title: 'PusheeCat',
+    image: 'assets/image/pusheeCat.png',
+    demo: 'https://oriananohemi.github.io/pusheenCat/',
+    github: 'https://github.com/oriananohemi/pusheenCat',
+  },
+  {
+    title: 'Casa de Instrumentos',
+    image: 'assets/image/casaDeInstrumento.png',
+    demo: 'https://oriananohemi.github.io/Casa-de-Instrumentos/',
+    github: 'https://github.com/oriananohemi/Casa-de-Instrumentos',
+  },
+  {
+    title: 'Instagram',
+    image: 'assets/image/instagramPerfil.png',
+    demo: 'https://oriananohemi.github.io/instagram/',
+    github: 'https://github.com/oriananohemi/instagram',
+  },
+  {
+    title: 'Instagram Home',
+    image: 'assets/image/instagramHome.png',
+    demo: 'https://oriananohemi.github.io/instagramHome/',
+    github: 'https://github.com/oriananohemi/instagramHome',
+  },
+];

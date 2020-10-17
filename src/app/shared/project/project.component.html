@@ -1,5 +1,7 @@
 <article *ngIf="project" class="project">
-  <img class="responsive-image" [src]="project.image" alt="">
+  <div class="project-image">
+    <img class="responsive-image" [src]="project.image" alt="">
+  </div>
   <h2 class="project__title">{{ project.title }}</h2>
   <div class="flex-container container">
     <a class="project__link" [href]="project.github" target="_blank">Repo</a>
