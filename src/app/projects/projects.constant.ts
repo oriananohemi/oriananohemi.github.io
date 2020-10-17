@@ -28,7 +28,7 @@ export const projects = [
     image: 'assets/image/tuCloset.png'
   },
   {
-    title: 'pinterest',
+    title: 'Pinterest',
     image: 'assets/image/pinterest.png'
   },
 ]
