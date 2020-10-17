@@ -59,12 +59,12 @@ export const projects = [
     demo: 'https://oriananohemi.github.io/pusheenCat/',
     github: 'https://github.com/oriananohemi/pusheenCat',
   },
-  {
-    title: 'Casa de Instrumentos',
-    image: 'assets/image/casaDeInstrumento.png',
-    demo: 'https://oriananohemi.github.io/Casa-de-Instrumentos/',
-    github: 'https://github.com/oriananohemi/Casa-de-Instrumentos',
-  },
+  // {
+  //   title: 'Casa de Instrumentos',
+  //   image: 'assets/image/casaDeInstrumento.png',
+  //   demo: 'https://oriananohemi.github.io/Casa-de-Instrumentos/',
+  //   github: 'https://github.com/oriananohemi/Casa-de-Instrumentos',
+  // },
   {
     title: 'Instagram',
     image: 'assets/image/instagramPerfil.png',
