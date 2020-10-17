@@ -3,4 +3,8 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  &__section {
+    margin: 30px auto;
+    width: 90%;
+  }
 }
