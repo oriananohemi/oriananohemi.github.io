@@ -3,6 +3,10 @@
   margin-left: 5px;
 }
 
+.social-link:hover {
+  background-color: var(--primary);
+}
+
 .contact-container {
   align-items: center;
   display: flex;

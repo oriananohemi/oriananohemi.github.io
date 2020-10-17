@@ -5,11 +5,13 @@
   height: 80px;
   padding: 10px 20px;
   width: 100%;
+  &__link {
+    margin-left: 10px;
+  }
+  &__link:hover {
+    background-color: var(--primary);
+  }
 }
 .brand-container {
   width: 100px;
-}
-
-.margin {
-  margin-left: 10px;
 }
