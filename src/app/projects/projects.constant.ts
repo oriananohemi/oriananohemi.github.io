@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Burger Queen',
     image: 'assets/image/burgerQueen.png',
-    demo: '',
+    demo: 'https://oriananohemi.github.io/BOG001-burger-queen/',
     github: 'https://github.com/oriananohemi/BOG001-burger-queen',
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
   {
     title: 'PetShop',
     image: 'assets/image/petShop.png',
-    demo: '',
+    demo: 'https://oriananohemi.github.io/petShop/home',
     github: 'https://github.com/oriananohemi/petShop',
   },
   {
@@ -35,29 +35,29 @@ export const projects = [
     demo: 'https://oriananohemi.github.io/BOG001-data-lovers/',
     github: 'https://github.com/oriananohemi/BOG001-data-lovers',
   },
-  {
-    title: 'Twyno',
-    image: 'assets/image/Twyno.png',
-    demo: '',
-    github: '',
-  },
-  {
-    title: 'Tu Closet',
-    image: 'assets/image/tuCloset.png',
-    demo: 'https://oriananohemi.github.io/tuCloset/',
-    github: 'https://github.com/oriananohemi/tuCloset',
-  },
+  // {
+  //   title: 'Twyno',
+  //   image: 'assets/image/Twyno.png',
+  //   demo: '',
+  //   github: '',
+  // },
   {
     title: 'Pinterest',
     image: 'assets/image/pinterest.png',
-    demo: '',
-    github: '',
+    demo: 'https://oriananohemi.github.io/pinterest/',
+    github: 'https://github.com/oriananohemi/pinterest',
   },
   {
     title: 'PusheeCat',
     image: 'assets/image/pusheeCat.png',
     demo: 'https://oriananohemi.github.io/pusheenCat/',
     github: 'https://github.com/oriananohemi/pusheenCat',
+  },
+  {
+    title: 'Instagram',
+    image: 'assets/image/instagramPerfil.png',
+    demo: 'https://oriananohemi.github.io/instagram/',
+    github: 'https://github.com/oriananohemi/instagram',
   },
   // {
   //   title: 'Casa de Instrumentos',
@@ -66,15 +66,9 @@ export const projects = [
   //   github: 'https://github.com/oriananohemi/Casa-de-Instrumentos',
   // },
   {
-    title: 'Instagram',
-    image: 'assets/image/instagramPerfil.png',
-    demo: 'https://oriananohemi.github.io/instagram/',
-    github: 'https://github.com/oriananohemi/instagram',
-  },
-  {
-    title: 'Instagram Home',
-    image: 'assets/image/instagramHome.png',
-    demo: 'https://oriananohemi.github.io/instagramHome/',
-    github: 'https://github.com/oriananohemi/instagramHome',
+    title: 'Tu Closet',
+    image: 'assets/image/tuCloset.png',
+    demo: 'https://oriananohemi.github.io/tuCloset/',
+    github: 'https://github.com/oriananohemi/tuCloset',
   },
 ];
