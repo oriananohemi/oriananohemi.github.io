@@ -30,6 +30,12 @@ export const projects = [
     github: 'https://github.com/oriananohemi/BOG001-social-network',
   },
   {
+    title: 'MdLinks',
+    image: 'assets/image/mdlinks.png',
+    demo: 'https://github.com/oriananohemi/md-links',
+    github: 'https://github.com/oriananohemi/md-links',
+  },
+  {
     title: 'Pokedex',
     image: 'assets/image/pokedex.png',
     demo: 'https://oriananohemi.github.io/BOG001-data-lovers/',
@@ -41,12 +47,12 @@ export const projects = [
   //   demo: '',
   //   github: '',
   // },
-  {
-    title: 'Pinterest',
-    image: 'assets/image/pinterest.png',
-    demo: 'https://oriananohemi.github.io/pinterest/',
-    github: 'https://github.com/oriananohemi/pinterest',
-  },
+  // {
+  //   title: 'Pinterest',
+  //   image: 'assets/image/pinterest.png',
+  //   demo: 'https://oriananohemi.github.io/pinterest/',
+  //   github: 'https://github.com/oriananohemi/pinterest',
+  // },
   {
     title: 'PusheeCat',
     image: 'assets/image/pusheeCat.png',
@@ -59,12 +65,12 @@ export const projects = [
     demo: 'https://oriananohemi.github.io/instagram/',
     github: 'https://github.com/oriananohemi/instagram',
   },
-  // {
-  //   title: 'Casa de Instrumentos',
-  //   image: 'assets/image/casaDeInstrumento.png',
-  //   demo: 'https://oriananohemi.github.io/Casa-de-Instrumentos/',
-  //   github: 'https://github.com/oriananohemi/Casa-de-Instrumentos',
-  // },
+  {
+    title: 'Casa de Instrumentos',
+    image: 'assets/image/casaDeInstrumento.png',
+    demo: 'https://oriananohemi.github.io/Casa-de-Instrumentos/',
+    github: 'https://github.com/oriananohemi/Casa-de-Instrumentos',
+  },
   {
     title: 'Tu Closet',
     image: 'assets/image/tuCloset.png',
