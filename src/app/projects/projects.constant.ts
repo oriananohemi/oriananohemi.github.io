@@ -2,14 +2,14 @@ export const projects = [
   {
     title: 'Burger Queen',
     image: 'assets/image/burgerQueen.png',
-    demo: 'https://oriananohemi.github.io/BOG001-burger-queen/',
-    github: 'https://github.com/oriananohemi/BOG001-burger-queen',
+    demo: 'https://oriananohemi.github.io/burger-queen/',
+    github: 'https://github.com/oriananohemi/burger-queen',
   },
   {
     title: 'SolSalud',
     image: 'assets/image/solSalud.png',
-    demo: 'https://oriananohemi.github.io/SolSalud/#/',
-    github: 'https://github.com/oriananohemi/SolSalud',
+    demo: 'https://oriananohemi.github.io/solSalud/#/',
+    github: 'https://github.com/oriananohemi/solSalud',
   },
   {
     title: 'PetShop',
@@ -26,8 +26,8 @@ export const projects = [
   {
     title: 'PhySport',
     image: 'assets/image/phySport.png',
-    demo: 'https://oriananohemi.github.io/BOG001-social-network/',
-    github: 'https://github.com/oriananohemi/BOG001-social-network',
+    demo: 'https://oriananohemi.github.io/social-network/',
+    github: 'https://github.com/oriananohemi/social-network',
   },
   {
     title: 'MdLinks',
@@ -38,8 +38,8 @@ export const projects = [
   {
     title: 'Pokedex',
     image: 'assets/image/pokedex.png',
-    demo: 'https://oriananohemi.github.io/BOG001-data-lovers/',
-    github: 'https://github.com/oriananohemi/BOG001-data-lovers',
+    demo: 'https://oriananohemi.github.io/data-lovers/',
+    github: 'https://github.com/oriananohemi/data-lovers',
   },
   // {
   //   title: 'Twyno',
@@ -54,10 +54,10 @@ export const projects = [
   //   github: 'https://github.com/oriananohemi/pinterest',
   // },
   {
-    title: 'PusheeCat',
+    title: 'PusheenCat',
     image: 'assets/image/pusheeCat.png',
-    demo: 'https://oriananohemi.github.io/pusheenCat/',
-    github: 'https://github.com/oriananohemi/pusheenCat',
+    demo: 'https://oriananohemi.github.io/pusheen-cat/',
+    github: 'https://github.com/oriananohemi/pusheen-cat',
   },
   {
     title: 'Instagram',
@@ -65,16 +65,16 @@ export const projects = [
     demo: 'https://oriananohemi.github.io/instagram/',
     github: 'https://github.com/oriananohemi/instagram',
   },
-  {
-    title: 'Casa de Instrumentos',
-    image: 'assets/image/casaDeInstrumento.png',
-    demo: 'https://oriananohemi.github.io/Casa-de-Instrumentos/',
-    github: 'https://github.com/oriananohemi/Casa-de-Instrumentos',
-  },
-  {
-    title: 'Tu Closet',
-    image: 'assets/image/tuCloset.png',
-    demo: 'https://oriananohemi.github.io/tuCloset/',
-    github: 'https://github.com/oriananohemi/tuCloset',
-  },
+  // {
+  //   title: 'Casa de Instrumentos',
+  //   image: 'assets/image/casaDeInstrumento.png',
+  //   demo: 'https://oriananohemi.github.io/Casa-de-Instrumentos/',
+  //   github: 'https://github.com/oriananohemi/Casa-de-Instrumentos',
+  // },
+  // {
+  //   title: 'Tu Closet',
+  //   image: 'assets/image/tuCloset.png',
+  //   demo: 'https://oriananohemi.github.io/tuCloset/',
+  //   github: 'https://github.com/oriananohemi/tuCloset',
+  // },
 ];
