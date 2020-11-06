@@ -14,8 +14,8 @@ export const projects = [
   {
     title: 'PetShop',
     image: 'assets/image/petShop.png',
-    demo: 'https://oriananohemi.github.io/petShop/home',
-    github: 'https://github.com/oriananohemi/petShop',
+    demo: 'https://oriananohemi.github.io/pet-shop/home',
+    github: 'https://github.com/oriananohemi/pet-shop',
   },
   {
     title: 'Buscador de Peliculas',
