@@ -6,28 +6,16 @@ export const projects = [
     github: 'https://github.com/oriananohemi/burger-queen',
   },
   {
+    title: 'GiffyTown',
+    image: 'assets/image/giffyTown.png',
+    demo: 'https://oriananohemi.github.io/giffyTown/',
+    github: 'https://github.com/oriananohemi/giffyTown',
+  },
+  {
     title: 'SolSalud',
     image: 'assets/image/solSalud.png',
     demo: 'https://oriananohemi.github.io/solSalud/#/',
     github: 'https://github.com/oriananohemi/solSalud',
-  },
-  {
-    title: 'PetShop',
-    image: 'assets/image/petShop.png',
-    demo: 'https://oriananohemi.github.io/pet-shop/home',
-    github: 'https://github.com/oriananohemi/pet-shop',
-  },
-  {
-    title: 'Buscador de Peliculas',
-    image: 'assets/image/buscadorPeliculas.png',
-    demo: 'https://oriananohemi.github.io/buscador-peliculas/',
-    github: 'https://github.com/oriananohemi/buscador-peliculas',
-  },
-  {
-    title: 'PhySport',
-    image: 'assets/image/phySport.png',
-    demo: 'https://oriananohemi.github.io/social-network/',
-    github: 'https://github.com/oriananohemi/social-network',
   },
   {
     title: 'MdLinks',
@@ -41,40 +29,10 @@ export const projects = [
     demo: 'https://oriananohemi.github.io/data-lovers/',
     github: 'https://github.com/oriananohemi/data-lovers',
   },
-  // {
-  //   title: 'Twyno',
-  //   image: 'assets/image/Twyno.png',
-  //   demo: '',
-  //   github: '',
-  // },
-  // {
-  //   title: 'Pinterest',
-  //   image: 'assets/image/pinterest.png',
-  //   demo: 'https://oriananohemi.github.io/pinterest/',
-  //   github: 'https://github.com/oriananohemi/pinterest',
-  // },
   {
     title: 'PusheenCat',
     image: 'assets/image/pusheeCat.png',
     demo: 'https://oriananohemi.github.io/pusheen-cat/',
     github: 'https://github.com/oriananohemi/pusheen-cat',
-  },
-  {
-    title: 'Instagram',
-    image: 'assets/image/instagramPerfil.png',
-    demo: 'https://oriananohemi.github.io/instagram/',
-    github: 'https://github.com/oriananohemi/instagram',
-  },
-  // {
-  //   title: 'Casa de Instrumentos',
-  //   image: 'assets/image/casaDeInstrumento.png',
-  //   demo: 'https://oriananohemi.github.io/Casa-de-Instrumentos/',
-  //   github: 'https://github.com/oriananohemi/Casa-de-Instrumentos',
-  // },
-  // {
-  //   title: 'Tu Closet',
-  //   image: 'assets/image/tuCloset.png',
-  //   demo: 'https://oriananohemi.github.io/tuCloset/',
-  //   github: 'https://github.com/oriananohemi/tuCloset',
-  // },
+  }
 ];
